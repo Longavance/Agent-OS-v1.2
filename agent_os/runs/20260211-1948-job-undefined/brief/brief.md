@@ -1,0 +1,1 @@
+=---\nrun_id: 20260211-1948-job-undefined\njob_type: \nclient: \ncompany_size: \ncreated_at: \nstatus: DRAFT\n---\n\n# Brief: 20260211-1948-job-undefined\n\n## Job Type\n\n\n## Client Context\n- Client: \n- Company Size: \n\n## Raw Brief\n\n\n## Validation Status\nNOT YET VALIDATED. A reviewer must create brief_validated.md after review.
