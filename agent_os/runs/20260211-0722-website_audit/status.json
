@@ -1,8 +1,0 @@
-{
-  "run_id": "20260211-0722-website_audit",
-  "job_type": "website_audit",
-  "state": "INIT",
-  "cp1": "PENDING",
-  "qa": "PENDING",
-  "cp2": "LOCKED"
-}
