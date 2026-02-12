@@ -1,1 +1,0 @@
-=# Decisions Log: 20260212-0046-content_system_design-recyS435X4CYNlpmj\n\nRun initialized. Status: INIT. CP1: PENDING.\nAwaiting brief validation and CP1 approval.

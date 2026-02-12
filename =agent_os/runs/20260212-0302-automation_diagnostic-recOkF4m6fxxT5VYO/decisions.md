@@ -1,1 +1,0 @@
-=# Decisions Log: 20260212-0302-automation_diagnostic-recOkF4m6fxxT5VYO\n\nRun initialized. Status: INIT. CP1: PENDING.\nAwaiting brief validation and CP1 approval.
