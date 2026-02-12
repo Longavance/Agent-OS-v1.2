@@ -1,1 +1,0 @@
-# QA Report placeholder\nRun ID: 20260212-0500-website_audit-recflRsfGCNdJodA5\nRecord ID: recflRsfGCNdJodA5\nJob Type: website_audit\nCreated at: 2026-02-12T05:18:30.599Z\n\nA reviewer must complete this report and set QA Verdict in Airtable.
