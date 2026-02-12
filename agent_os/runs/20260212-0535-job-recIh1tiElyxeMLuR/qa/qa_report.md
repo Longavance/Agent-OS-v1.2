@@ -1,0 +1,1 @@
+# QA Report placeholder\nRun ID: 20260212-0535-job-recIh1tiElyxeMLuR\nRecord ID: recIh1tiElyxeMLuR\nJob Type: \nCreated at: 2026-02-12T05:36:48.335Z\n\nA reviewer must complete this report and set QA Verdict in Airtable.
