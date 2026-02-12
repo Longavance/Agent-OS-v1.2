@@ -1,0 +1,1 @@
+=# Decisions Log: 20260212-0449-pitch_deck_review-recuzuAzwmOwT2D5d\n\nRun initialized. Status: INIT. CP1: PENDING.\nAwaiting brief validation and CP1 approval.
